@@ -1,0 +1,13 @@
+train: C:/Users/razan/Downloads/Product_detection_test/data_preprocessed/train/images
+val: C:/Users/razan/Downloads/Product_detection_test/data_preprocessed/valid/images
+test: C:/Users/razan/Downloads/Product_detection_test/data_preprocessed/test/images
+
+nc: 1
+names: ['coca-cola']
+
+roboflow:
+  workspace: test01-fr735
+  project: brands-qv6fs
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/test01-fr735/brands-qv6fs/dataset/1

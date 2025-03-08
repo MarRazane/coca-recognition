@@ -1,0 +1,6 @@
+venv/
+# Ignore the entire data folder
+data/
+
+# Ignore the entire preprocessed_data folder
+data_preprocessed/
