@@ -17,6 +17,7 @@ This project uses a dataset exported in **YOLOv8** format.
 
 
 ## Repository Structure
+
 ├── runs/
 │   └── detect/                # Folder created by YOLOv8 during training 
 ├── to_test/                   # Folder containing sample images for testing
